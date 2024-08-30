@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate AIML developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-nagendra&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-nagendra" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning**
