@@ -7,11 +7,10 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NL Pipelines and LLM's**
 
 - 📫 How to reach me **nikearmy22@gmail.com**
 
-- ⚡ Fun fact **Achiever**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
