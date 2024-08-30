@@ -1,7 +1,5 @@
-https://www.youtube.com/watch?v=G-EGDH50hGE
-https://rahuldkjain.github.io/gh-profile-readme-generator/
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate AIML developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-nagendra&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-nagendra" /> </p>
 
