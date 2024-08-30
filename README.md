@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **random.email.generated.7@gmail.com**
+- 📫 How to reach me **nikearmy22@gmail.com**
 
 - ⚡ Fun fact **Achiever**
 
